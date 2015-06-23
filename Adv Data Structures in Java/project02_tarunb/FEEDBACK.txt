@@ -1,0 +1,9 @@
+FEEDBACK:
+
+Good testing of your implementation.
+
+For the VIPList in class JukeBox, instead of having the two vipPL and vipSongs,
+	which you have to synchronize, perhaps consider using a helper class.
+	
+-Bita.
+

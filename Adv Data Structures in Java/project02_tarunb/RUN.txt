@@ -1,0 +1,714 @@
+Regular run SuperMarket.java
+
+
+Number of customers in market : 22
+
+Customers in each register:
+
+[Alice,Goldilocks,Gretel]
+
+[Geppetto,Pinocchio,Bashful,Dorothy,Cinderella,Rumpelstiltskin,Granny,Grumpy,Ariel,Iago,Wendy]
+
+[Aladdin,Mulan,Doc,Dopey,Genie,Thumbelina,Hansel,Happy]
+
+Number of customers to assist 2
+
+Customers in each register:
+
+[Goldilocks,Gretel]
+
+[Pinocchio,Bashful,Dorothy,Cinderella,Rumpelstiltskin,Granny,Grumpy,Ariel,Iago,Wendy]
+
+[Aladdin,Mulan,Doc,Dopey,Genie,Thumbelina,Hansel,Happy]
+
+
+================================================================================================
+================================================================================================
+Regular run #2
+
+Number of customers in market : 22
+
+Customers in each register:
+
+[Alice,Goldilocks,Gretel]
+
+[Geppetto,Pinocchio,Bashful,Dorothy,Cinderella,Rumpelstiltskin,Granny,Grumpy,Ariel,Iago,Wendy]
+
+[Aladdin,Mulan,Doc,Dopey,Genie,Thumbelina,Hansel,Happy]
+
+Number of customers to assist 14
+Warning: No customers left to process in register 1
+
+Customers in each register:
+
+[]
+
+[Granny,Grumpy,Ariel,Iago,Wendy]
+
+[Doc,Dopey,Genie,Thumbelina,Hansel,Happy]
+
+================================================================================================
+================================================================================================
+Regular run MyTunes.java
+
+Welcome! We have over 59600 in FoothillTunes Jukebox!
+
+Menu:
+0. Quit
+1. Output this menu
+2. Show all song titles
+3. Show all songs by genre 
+4. Buy songs by title
+5. Create a playlist
+6. Play my song title (regular priority)
+7. Play my song title first (high priority)
+
+jukebox song title: Looking For A Song
+TouchTunes
+Regular playlist:
+
+[Looking For A Song, 0:3:46, Big Audio Dynamite, classic pop and rock]
+
+VIP playlist:
+[]
+playing song: Looking For A Song, 0:3:46, Big Audio Dynamite, classic pop and rock
+
+jukebox song title: Fools Gold
+TouchTunes
+Regular playlist:
+
+[Fools Gold, 0:3:28, Lee Greenwood, classic pop and rock]
+
+VIP playlist:
+[]
+
+jukebox song title: Changes
+TouchTunes
+Regular playlist:
+
+[Fools Gold, 0:3:28, Lee Greenwood, classic pop and rock,Changes, 0:9:28, Imagination, classic pop and rock]
+
+VIP playlist:
+[]
+
+jukebox song title: Gangsters Of The Groove
+TouchTunes
+Regular playlist:
+
+[Fools Gold, 0:3:28, Lee Greenwood, classic pop and rock,Changes, 0:9:28, Imagination, classic pop and rock,Gangsters Of The Groove, 0:4:2, Heatwave, classic pop and rock]
+
+VIP playlist:
+[]
+playing song: Fools Gold, 0:3:28, Lee Greenwood, classic pop and rock
+
+jukebox song title: Sunshine
+TouchTunes
+Regular playlist:
+
+[Changes, 0:9:28, Imagination, classic pop and rock,Gangsters Of The Groove, 0:4:2, Heatwave, classic pop and rock,Sunshine, 0:3:18, Imagination, classic pop and rock]
+
+VIP playlist:
+[]
+playing song: Changes, 0:9:28, Imagination, classic pop and rock
+
+jukebox VIP song title: Neutron Dance
+TouchTunes
+Regular playlist:
+
+[Gangsters Of The Groove, 0:4:2, Heatwave, classic pop and rock,Sunshine, 0:3:18, Imagination, classic pop and rock]
+
+VIP playlist:
+[Neutron Dance, 0:5:33, The Pointer Sisters, classic pop and rock] 5.0
+playing song: Neutron Dance, 0:5:33, The Pointer Sisters, classic pop and rock
+
+jukebox song title: Freedom
+TouchTunes
+Regular playlist:
+
+[Gangsters Of The Groove, 0:4:2, Heatwave, classic pop and rock,Sunshine, 0:3:18, Imagination, classic pop and rock,Freedom, 0:6:23, The Pointer Sisters, classic pop and rock]
+
+VIP playlist:
+[]
+playing song: Gangsters Of The Groove, 0:4:2, Heatwave, classic pop and rock
+
+jukebox song title: Terry
+TouchTunes
+Regular playlist:
+
+[Sunshine, 0:3:18, Imagination, classic pop and rock,Freedom, 0:6:23, The Pointer Sisters, classic pop and rock,Terry, 0:3:23, The Ladybug Transistor, classic pop and rock]
+
+VIP playlist:
+[]
+playing song: Sunshine, 0:3:18, Imagination, classic pop and rock
+
+jukebox song title: Rise
+TouchTunes
+Regular playlist:
+
+[Freedom, 0:6:23, The Pointer Sisters, classic pop and rock,Terry, 0:3:23, The Ladybug Transistor, classic pop and rock,Rise, 0:3:10, American Hi-Fi, classic pop and rock]
+
+VIP playlist:
+[]
+
+jukebox VIP song title: Shake It Up
+TouchTunes
+Regular playlist:
+
+[Freedom, 0:6:23, The Pointer Sisters, classic pop and rock,Terry, 0:3:23, The Ladybug Transistor, classic pop and rock,Rise, 0:3:10, American Hi-Fi, classic pop and rock]
+
+VIP playlist:
+[Shake It Up, 0:2:13, The Pioneers, classic pop and rock] 6.0
+playing song: Shake It Up, 0:2:13, The Pioneers, classic pop and rock
+
+jukebox song title: New Sneakers
+TouchTunes
+Regular playlist:
+
+[Freedom, 0:6:23, The Pointer Sisters, classic pop and rock,Terry, 0:3:23, The Ladybug Transistor, classic pop and rock,Rise, 0:3:10, American Hi-Fi, classic pop and rock,New Sneakers, 0:2:15, Deerhoof, classic pop and rock]
+
+VIP playlist:
+[]
+playing song: Freedom, 0:6:23, The Pointer Sisters, classic pop and rock
+
+jukebox VIP song title: Revenge
+TouchTunes
+Regular playlist:
+
+[Terry, 0:3:23, The Ladybug Transistor, classic pop and rock,Rise, 0:3:10, American Hi-Fi, classic pop and rock,New Sneakers, 0:2:15, Deerhoof, classic pop and rock]
+
+VIP playlist:
+[Revenge, 0:2:42, Brook Benton, classic pop and rock] 10.0
+playing song: Revenge, 0:2:42, Brook Benton, classic pop and rock
+
+jukebox song title: Shake It Up
+TouchTunes
+Regular playlist:
+
+[Terry, 0:3:23, The Ladybug Transistor, classic pop and rock,Rise, 0:3:10, American Hi-Fi, classic pop and rock,New Sneakers, 0:2:15, Deerhoof, classic pop and rock,Shake It Up, 0:2:13, The Pioneers, classic pop and rock]
+
+VIP playlist:
+[]
+
+jukebox song title: Talking
+TouchTunes
+Regular playlist:
+
+[Terry, 0:3:23, The Ladybug Transistor, classic pop and rock,Rise, 0:3:10, American Hi-Fi, classic pop and rock,New Sneakers, 0:2:15, Deerhoof, classic pop and rock,Shake It Up, 0:2:13, The Pioneers, classic pop and rock,Talking, 0:4:58, Essie Jain, classic pop and rock]
+
+VIP playlist:
+[]
+
+jukebox VIP song title: Music And Lights
+TouchTunes
+Regular playlist:
+
+[Terry, 0:3:23, The Ladybug Transistor, classic pop and rock,Rise, 0:3:10, American Hi-Fi, classic pop and rock,New Sneakers, 0:2:15, Deerhoof, classic pop and rock,Shake It Up, 0:2:13, The Pioneers, classic pop and rock,Talking, 0:4:58, Essie Jain, classic pop and rock]
+
+VIP playlist:
+[Music And Lights, 0:3:27, Imagination, classic pop and rock] 12.0
+playing song: Music And Lights, 0:3:27, Imagination, classic pop and rock
+
+Algorithm containsTitle Average Elapsed Time: 0 hrs : 0 mins : 0 sec : 27 ms : 784250 ns : 
+
+
+================================================================================================
+================================================================================================
+
+Regular run BrowseNavigation.java
+
+
+At line #1: link www.google.com
+Current Link: www.google.com
+back:
+[]
+forward:
+[]
+
+At line #2: link news.google.com
+Current Link: news.google.com
+back:
+[www.google.com]
+forward:
+[]
+
+At line #3: link www.educationnews.org
+Current Link: www.educationnews.org
+back:
+[news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #4: link www.nytimes.com
+Current Link: www.nytimes.com
+back:
+[www.educationnews.org,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #5: link www.nytimes.com/pages/education
+Current Link: www.nytimes.com/pages/education
+back:
+[www.nytimes.com,
+www.educationnews.org,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #6: back
+Current Link: www.nytimes.com
+back:
+[www.educationnews.org,
+news.google.com,
+www.google.com]
+forward:
+[www.nytimes.com/pages/education]
+
+At line #7: back
+Current Link: www.educationnews.org
+back:
+[news.google.com,
+www.google.com]
+forward:
+[www.nytimes.com,
+www.nytimes.com/pages/education]
+
+At line #8: back
+Current Link: news.google.com
+back:
+[www.google.com]
+forward:
+[www.educationnews.org,
+www.nytimes.com,
+www.nytimes.com/pages/education]
+
+At line #9: link www.technologyreview.com
+Current Link: www.technologyreview.com
+back:
+[news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #10: back
+Current Link: news.google.com
+back:
+[www.google.com]
+forward:
+[www.technologyreview.com]
+
+At line #11: link www.techtimes.com
+Current Link: www.techtimes.com
+back:
+[news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #12: link www.techtimes.com/biztech
+Current Link: www.techtimes.com/biztech
+back:
+[www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #13: link www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
+Current Link: www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
+back:
+[www.techtimes.com/biztech,
+www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #14: back
+Current Link: www.techtimes.com/biztech
+back:
+[www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm]
+
+At line #15: back
+Current Link: www.techtimes.com
+back:
+[news.google.com,
+www.google.com]
+forward:
+[www.techtimes.com/biztech,
+www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm]
+
+At line #16: forward
+Current Link: www.techtimes.com/biztech
+back:
+[www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm]
+
+At line #17: forward
+Current Link: www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
+back:
+[www.techtimes.com/biztech,
+www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #18: link www.java.com/en/java_in_action/alice.jsp
+Current Link: www.java.com/en/java_in_action/alice.jsp
+back:
+[www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm,
+www.techtimes.com/biztech,
+www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+Link news.foogle.com NOT found
+
+Link www.nytimes.com NOT found
+
+At the EOF
+Current Link: www.java.com/en/java_in_action/alice.jsp
+back:
+[www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm,
+www.techtimes.com/biztech,
+www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+================================================================================================
+================================================================================================
+Modified links.txt
+
+
+link www.google.com
+link news.google.com
+link www.educationnews.org
+link www.nytimes.com
+link www.nytimes.com/pages/education
+back
+contains www.nytimes.com
+back
+contains www.nytimes.com
+back
+link www.technologyreview.com
+back
+link www.techtimes.com
+link www.techtimes.com/biztech
+link www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
+back
+back
+forward
+forward
+link www.java.com/en/java_in_action/alice.jsp
+contains news.foogle.com
+contains www.nytimes.com
+back
+back
+back
+back
+back
+back
+
+
+Output below:
+------------------------------------------------------------------------------------------
+
+
+At line #1: link www.google.com
+Current Link: www.google.com
+back:
+[]
+forward:
+[]
+
+At line #2: link news.google.com
+Current Link: news.google.com
+back:
+[www.google.com]
+forward:
+[]
+
+At line #3: link www.educationnews.org
+Current Link: www.educationnews.org
+back:
+[news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #4: link www.nytimes.com
+Current Link: www.nytimes.com
+back:
+[www.educationnews.org,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #5: link www.nytimes.com/pages/education
+Current Link: www.nytimes.com/pages/education
+back:
+[www.nytimes.com,
+www.educationnews.org,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #6: back
+Current Link: www.nytimes.com
+back:
+[www.educationnews.org,
+news.google.com,
+www.google.com]
+forward:
+[www.nytimes.com/pages/education]
+
+Link www.nytimes.com found
+
+At line #8: back
+Current Link: www.educationnews.org
+back:
+[news.google.com,
+www.google.com]
+forward:
+[www.nytimes.com,
+www.nytimes.com/pages/education]
+
+Link www.nytimes.com found
+
+At line #10: back
+Current Link: news.google.com
+back:
+[www.google.com]
+forward:
+[www.educationnews.org,
+www.nytimes.com,
+www.nytimes.com/pages/education]
+
+At line #11: link www.technologyreview.com
+Current Link: www.technologyreview.com
+back:
+[news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #12: back
+Current Link: news.google.com
+back:
+[www.google.com]
+forward:
+[www.technologyreview.com]
+
+At line #13: link www.techtimes.com
+Current Link: www.techtimes.com
+back:
+[news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #14: link www.techtimes.com/biztech
+Current Link: www.techtimes.com/biztech
+back:
+[www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #15: link www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
+Current Link: www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
+back:
+[www.techtimes.com/biztech,
+www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #16: back
+Current Link: www.techtimes.com/biztech
+back:
+[www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm]
+
+At line #17: back
+Current Link: www.techtimes.com
+back:
+[news.google.com,
+www.google.com]
+forward:
+[www.techtimes.com/biztech,
+www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm]
+
+At line #18: forward
+Current Link: www.techtimes.com/biztech
+back:
+[www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm]
+
+At line #19: forward
+Current Link: www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
+back:
+[www.techtimes.com/biztech,
+www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+At line #20: link www.java.com/en/java_in_action/alice.jsp
+Current Link: www.java.com/en/java_in_action/alice.jsp
+back:
+[www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm,
+www.techtimes.com/biztech,
+www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[]
+
+Link news.foogle.com NOT found
+
+Link www.nytimes.com NOT found
+
+At line #23: back
+Current Link: www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
+back:
+[www.techtimes.com/biztech,
+www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[www.java.com/en/java_in_action/alice.jsp]
+
+At line #24: back
+Current Link: www.techtimes.com/biztech
+back:
+[www.techtimes.com,
+news.google.com,
+www.google.com]
+forward:
+[www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm,
+www.java.com/en/java_in_action/alice.jsp]
+
+At line #25: back
+Current Link: www.techtimes.com
+back:
+[news.google.com,
+www.google.com]
+forward:
+[www.techtimes.com/biztech,
+www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm,
+www.java.com/en/java_in_action/alice.jsp]
+
+At line #26: back
+Current Link: news.google.com
+back:
+[www.google.com]
+forward:
+[www.techtimes.com,
+www.techtimes.com/biztech,
+www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm,
+www.java.com/en/java_in_action/alice.jsp]
+
+At line #27: back
+Current Link: www.google.com
+back:
+[]
+forward:
+[news.google.com,
+www.techtimes.com,
+www.techtimes.com/biztech,
+www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm,
+www.java.com/en/java_in_action/alice.jsp]
+
+Can't do that action
+
+At the EOF
+Current Link: www.google.com
+back:
+[]
+forward:
+[news.google.com,
+www.techtimes.com,
+www.techtimes.com/biztech,
+www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm,
+www.java.com/en/java_in_action/alice.jsp]
+
+	
+	
+================================================================================================
+================================================================================================
+run #3 with modified links.txt
+
+link www.google.com
+forward
+link news.google.com
+link www.educationnews.org
+link www.nytimes.com
+link www.nytimes.com/pages/education
+back
+back
+back
+link www.technologyreview.com
+back
+link www.techtimes.com
+link www.techtimes.com/biztech
+link www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
+back
+back
+forward
+forward
+link www.java.com/en/java_in_action/alice.jsp
+contains news.foogle.com
+contains www.nytimes.com
+
+
+Output below:
+------------------------------------------------------------------------------------------
+
+
+At line #1: link www.google.com
+Current Link: www.google.com
+back:
+[]
+forward:
+[]
+
+Can't do that action
+
+At the EOF
+Current Link: www.google.com
+back:
+[]
+forward:
+[]
+
+
+================================================================================================
+================================================================================================
+
